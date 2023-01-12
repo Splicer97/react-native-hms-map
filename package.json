@@ -28,11 +28,13 @@
     "package.json",
     "README.md"
   ],
+  "dependencies": {
+    "deprecated-react-native-prop-types": "2.3.0"
+  },
   "peerDependencies": {
     "prop-types": "^15.7.2",
     "react": ">=16.6.0",
-    "react-native": ">=0.60.0 <1.0.x",
-    "deprecated-react-native-prop-types": "2.3.0"
+    "react-native": ">=0.60.0 <1.0.x"
   },
   "devDependencies": {
     "react": "16.6.0",
